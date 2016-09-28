@@ -11,3 +11,6 @@
 # IDEA
 ##
 .idea/
+
+node_modules/
+typings/
